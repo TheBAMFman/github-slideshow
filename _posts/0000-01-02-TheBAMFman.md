@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+This idea we've created will make us millionaires........ one day lol
 Use the left arrow to go back!
